@@ -24,5 +24,6 @@ body {
 }
 
 .logo {
-  border: 5px solid white;
+  width: 60px;
+  height: 60px;
 }
